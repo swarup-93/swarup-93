@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Swarup Dhavan</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/swarup-93/swarup-93/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 - 🔭 I’m currently working on **Face Recognition Based attendance system**
 
@@ -24,11 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swarup-93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarup-93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/swarup-93/swarup-93/output/snake.svg" alt="Snake animation" />
-
-###
