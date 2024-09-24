@@ -9,14 +9,16 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
-- 🔭 I’m currently working on: **Face Recognition Based attendance system**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+<ul>
+  <li> I'm currently working on:<strong>Face Recognition Based attendance system</strong> </li>
+  <li> I'm currently learning:<strong>Python</strong> </li>
+  <li> How to reach me:<strong>dhavanswarup@gmail.com</strong> </li>
+  <li> Fun fact:<strong>hmm I think I am funny</strong> </li>
+</ul>
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **dhavanswarup@gmail.com**
-
-- ⚡ Fun fact **hmm I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
