@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarup Dhavan</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
-
 
 ###
 
@@ -11,7 +9,7 @@
 
 ###
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
 - 🔭 I’m currently working on **Face Recognition Based attendance system**
 
 - 🌱 I’m currently learning **Python**
