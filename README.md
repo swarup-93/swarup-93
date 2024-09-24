@@ -10,7 +10,7 @@
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
-- 🔭 I’m currently working on **Face Recognition Based attendance system**
+- 🔭 I’m currently working on: **Face Recognition Based attendance system**
 
 - 🌱 I’m currently learning **Python**
 
