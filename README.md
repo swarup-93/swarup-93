@@ -15,7 +15,7 @@
 <ul>
   <li> I'm currently working on:<strong>Face Recognition Based attendance system</strong> </li>
   <li> I'm currently learning:<strong>Python</strong> </li>
-  <li> How to reach me:<strong>dhavanswarup@gmail.com</strong> </li>
+  <li> How to reach me <strong>dhavanswarup@gmail.com</strong> </li>
   <li> Fun fact:<strong>hmm I think I am funny</strong> </li>
 </ul>
 
