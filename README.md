@@ -19,6 +19,26 @@
   <li> Fun fact: <strong>hmm I think I am funny</strong> </li>
 </ul>
 
+<div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <h2 style="text-align: center; color: #333;">About Me</h2>
+  
+  <p style="font-size: 18px; color: #555; line-height: 1.6;">
+    Hello! I’m <strong style="color: #1e90ff;">Swarup Dhavan</strong>, currently a third-year <strong>B.Tech</strong> student specializing in <strong>Computer Science and Engineering</strong> at <strong>DYP ATU</strong>.
+  </p>
+  
+  <p style="font-size: 18px; color: #555; line-height: 1.6;">
+    I have a passion for technology, particularly in the areas of <strong>coding</strong>, <strong>programming</strong>, and <strong>game development</strong>. In my free time, I enjoy playing video games and exploring how they’re built, which has fueled my interest in game development.
+  </p>
+  
+  <p style="font-size: 18px; color: #555; line-height: 1.6;">
+    I’m always looking to learn new skills and improve my technical expertise, especially in the field of software development.
+  </p>
+  
+  <p style="font-size: 18px; color: #555; line-height: 1.6; text-align: center;">
+    Feel free to connect with me if you share similar interests or have exciting projects to collaborate on!
+  </p>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
