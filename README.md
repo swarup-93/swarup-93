@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarup Dhavan</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd0NG40OTdncTByNmJrZm80em8zZDA3dHkzenFjZHlidXVpNWc5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=000000&style=flat" alt="swarup-93" /> </p>
 
 - 🔭 I’m currently working on **Face Recognition Based attendance system**
