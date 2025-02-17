@@ -13,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 <ul>
-  <li> I'm currently working on: <strong>Face Recognition Based attendance system</strong> </li>
-  <li> I'm currently learning <strong>Python</strong> </li>
+  <li> I'm currently working on: <strong>Dark Web Monitoring & Alert System</strong> </li>
+  <li> I'm currently learning <strong>C#</strong> </li>
   <li> How to reach me: <a href="mailto:dhavanswarup@gmail.com"><strong>dhavanswarup@gmail.com</strong></a> </li>
   <li> Fun fact: <strong>hmm I think I am funny</strong> </li>
 </ul>
