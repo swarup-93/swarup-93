@@ -14,7 +14,7 @@
 </p>
 <ul>
   <li> I'm currently working on: <strong>Dark Web Monitoring & Alert System</strong> </li>
-  <li> I'm currently learning <strong>C#</strong> </li>
+  <li> I'm currently learning <strong>Assembly Language</strong> </li>
   <li> How to reach me: <a href="mailto:dhavanswarup@gmail.com"><strong>dhavanswarup@gmail.com</strong></a> </li>
   <li> Fun fact: <strong>hmm I think I am funny</strong> </li>
 </ul>
