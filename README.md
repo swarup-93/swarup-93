@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Swarup Dhavan</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h1 align="center">Hi 👋, I'm Swarup</h1>
+<h3 align="center">I am passionate programmer</h3>
 
 ###
 
@@ -15,15 +15,15 @@
 <ul>
   <li> I'm currently working on: <strong>Dark Web Monitoring & Alert System</strong> </li>
   <li> I'm currently learning <strong>Assembly Language</strong> </li>
-  <li> How to reach me: <a href="mailto:dhavanswarup@gmail.com"><strong>dhavanswarup@gmail.com</strong></a> </li>
-  <li> Fun fact: <strong>hmm I think I am funny</strong> </li>
+  <li> How to reach me: <a href="mailto:swarup93@proton.me"><strong>swarup93@proton.me</strong></a> </li>
+  <li> Fun fact: <strong>hmm I think I am funny</strong> idk </li>
 </ul>
 
 <div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h2 style="text-align: center; color: #333;">About Me</h2>
   
   <p style="font-size: 18px; color: #555; line-height: 1.6;">
-    Hello! I’m <strong style="color: #1e90ff;">Swarup Dhavan</strong>, currently a third-year <strong>B.Tech</strong> student specializing in <strong>Computer Science and Engineering</strong> at <strong>DYP ATU</strong>.
+    Hello! I’m <strong style="color: #1e90ff;">Swarup </strong>, currently a Fourth-year <strong>B.Tech</strong> student specializing in <strong>Computer Science and Engineering.
   </p>
   
   <p style="font-size: 18px; color: #555; line-height: 1.6;">
