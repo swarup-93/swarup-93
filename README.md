@@ -12,12 +12,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-<ul>
-  <li> I'm currently working on: <strong>Dark Web Monitoring & Alert System</strong> </li>
-  <li> I'm currently learning <strong>Assembly Language</strong> </li>
-  <li> How to reach me: <a href="mailto:swarup93@proton.me"><strong>swarup93@proton.me</strong></a> </li>
-  <li> Fun fact: <strong>hmm I think I am funny</strong> idk </li>
-</ul>
 
 <div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h2 style="text-align: center; color: #333;">About Me</h2>
