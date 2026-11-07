@@ -14,8 +14,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=480&lines=Java+Developer;Building+with+Spring+Boot;Exploring+Frontend+Development;Always+Building+Something" alt="Typing SVG" />
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-<br /><br />
+<!-- <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<br /><br /> -->
 
 <a href="https://linkedin.com/in/swarup-dhavan-7bb85a25a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
