@@ -6,7 +6,8 @@
   <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/wave-slack.gif"
        width="36"
        height="36"
-       alt="👋" />
+       alt="👋" 
+       align="center"/>
   , I'm Swarup
 </h1>
 
@@ -28,7 +29,7 @@
 
 
 <h2>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30" align="center" />
+  <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/laptop-computer.gif" alt="💻" width="30" height="30" align="center" />
   About Me
 </h2>
 
@@ -43,7 +44,7 @@ Hey! I'm **Swarup**, a Computer Science graduate who spends a lot of time buildi
 
 
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="32" height="32" align="center" /> Languages & Tools</h2>
+<h2><img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/hammer-and-wrench.gif" alt="🛠️" width="30" height="30" align="top" /> Languages & Tools</h2>
 
 <div align="center">
 
@@ -87,7 +88,7 @@ Hey! I'm **Swarup**, a Computer Science graduate who spends a lot of time buildi
 
 
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" align="center" /> GitHub Stats</h2>
+<h2><img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/bar-chart.gif" alt="📊" width="30" height="30" align="top" /> GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=swarup-93&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
@@ -97,7 +98,7 @@ Hey! I'm **Swarup**, a Computer Science graduate who spends a lot of time buildi
 
 
 
-## Contributions
+<h2><img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/chart-increasing.gif" alt="📈" width="30" height="30" align="top" /> GitHub Stats</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/output/snake.svg" alt="Snake animation" />
