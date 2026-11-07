@@ -1,50 +1,112 @@
-<h1 align="center">Hi 👋, I'm Swarup</h1>
-<h3 align="center">I am passionate programmer</h3>
+<div align="center">
 
-###
 
-<br clear="both">
+<h1>
+  Hi
+  <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/wave-slack.gif"
+       width="36"
+       height="36"
+       alt="👋" />
+  , I'm Swarup
+</h1>
 
-<img src="https://raw.githubusercontent.com/swarup-93/swarup-93/output/snake.svg" alt="Snake animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=480&lines=Java+Developer;Building+with+Spring+Boot;Exploring+Frontend+Development;Always+Building+Something" alt="Typing SVG" />
 
-###
+<br/>
+<img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<br /><br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=swarup-93&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+<a href="https://linkedin.com/in/swarup-dhavan-7bb85a25a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/dhavanswarup"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+&nbsp;
+<a href="https://www.leetcode.com/swarup_93"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
-<div style="background-color: #f4f4f9; padding: 20px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h2 style="text-align: center; color: #333;">About Me</h2>
-  
-  <p style="font-size: 18px; color: #555; line-height: 1.6;">
-    Hello! I’m <strong style="color: #1e90ff;">Swarup </strong>, currently a Fourth-year <strong>B.Tech</strong> student specializing in <strong>Computer Science and Engineering.
-  </p>
-  
-  <p style="font-size: 18px; color: #555; line-height: 1.6;">
-    I have a passion for technology, particularly in the areas of <strong>coding</strong>, <strong>programming</strong>, and <strong>game development</strong>. In my free time, I enjoy playing video games and exploring how they’re built, which has fueled my interest in game development.
-  </p>
-  
-  <p style="font-size: 18px; color: #555; line-height: 1.6;">
-    I’m always looking to learn new skills and improve my technical expertise, especially in the field of software development.
-  </p>
-  
-  <p style="font-size: 18px; color: #555; line-height: 1.6; text-align: center;">
-    Feel free to connect with me if you share similar interests or have exciting projects to collaborate on!
-  </p>
 </div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/swarup-dhavan-7bb85a25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup-dhavan-7bb85a25a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhavanswarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhavanswarup" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swarup_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swarup_93" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<h2>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="30" height="30" align="center" />
+  About Me
+</h2>
+
+Hey! I'm **Swarup**, a Computer Science graduate who spends a lot of time building things with code.
+
+- Currently working with **Java, Spring Boot, and React**
+- Enjoy building backend systems, REST APIs, and web applications
+- Usually experimenting with something new or figuring out how things work
+- Outside coding, I'm into gaming and game development
+- Always up for interesting projects and collaborations
+
+
+
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="32" height="32" align="center" /> Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarup-93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swarup-93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### Languages
+
+<p align="center">
+  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" /></a>
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://quasar.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quasar/quasar-original.svg" alt="Quasar" width="45" height="45" /></a>
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45" /></a>&nbsp;&nbsp;
+  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="45" height="45" /></a>
+</p>
+
+</div>
+
+
+
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="32" height="32" align="center" /> GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=swarup-93&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swarup-93&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" alt="Top Languages" />
+</div>
+
+
+
+## Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br />
+
+<div align="center">
+
+*Thanks for stopping by! Feel free to check out my repositories.* 👨‍💻
+
 </div>
