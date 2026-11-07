@@ -7,7 +7,7 @@
        width="36"
        height="36"
        alt="👋" 
-       align="center"/>
+       align="top"/>
   , I'm Swarup
 </h1>
 
@@ -29,7 +29,7 @@
 
 
 <h2>
-  <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/laptop-computer.gif" alt="💻" width="30" height="30" align="center" />
+  <img src="https://raw.githubusercontent.com/swarup-93/swarup-93/main/gifs/laptop-computer.gif" alt="💻" width="30" height="30" align="top" />
   About Me
 </h2>
 
